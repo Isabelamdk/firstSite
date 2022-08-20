@@ -1,0 +1,24 @@
+.about {
+    display: flex
+}
+
+.metadetela {
+    flex: 1;
+    margin: 6px;
+}
+
+.alinharadireita {
+    display: flex;
+    justify-content: end;
+}
+
+.texto {
+    width: 440px;
+}
+
+.titulo {
+    font-family: Minion Pro;
+    font-size: 35pt;
+    font-weight: inherit;
+    margin-block-start: 0px;
+}

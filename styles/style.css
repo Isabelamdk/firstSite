@@ -1,0 +1,53 @@
+body {
+    margin: 0px;
+}
+
+header {
+    border-bottom-color: #003930;
+    border-bottom-width: 1pt;
+    border-bottom-style: solid;
+    padding: 6px;
+    background: #00a895;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.botoesmenu {
+    border-style: solid;
+    border-radius: 22px;
+    padding: 5px 20px;
+    border-color: #a83400;
+    background-color: #ffffff;
+    font-family: 'Lucida Sans Unicode';
+    color: #000000;
+}
+
+.menuselecionado {
+    background-color: #f54c00;
+    color: #ffffff;
+}
+
+main {
+    padding: 6px 0px;
+    margin: 24px 0px 30px;
+}
+
+footer {
+    padding: 6px;
+    border-top: solid #000000 1px;
+    position: fixed;
+    width: calc(100% - 12px);
+    bottom: 0px;
+    background-color: #f54c00;
+    color: #ffffff;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 30px;
+}
+.fonte-lucida {
+    font-family: Lucida Sans Unicode;
+    font-size: 10pt; 
+}

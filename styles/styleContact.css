@@ -1,0 +1,51 @@
+.titulo {
+    font-family: Minion Pro;
+    font-size: 35pt;
+    font-weight: inherit;
+    margin-block-start: 0px;
+}
+
+.conteudo {
+    margin: 24px 20% 30px;
+}
+
+.inputstyle {
+    border-color: #f54c00;
+    border-width: 4px;
+    outline: none;
+    border-radius: 4px;
+    flex: 1;
+}
+
+.textarea {
+    resize: none;
+}
+
+.largura {
+    width: 70px;
+}
+
+.espacamento {
+    display: flex;
+    margin-bottom: 12px;
+    text-align: end;
+}
+
+.botaosendit {
+    border-style: solid;
+    border-radius: 22px;
+    padding: 5px 20px;
+    border-color: #f54c00;
+    background-color: #00a895;
+    font-family: 'Lucida Sans Unicode';
+    color: #fff;
+}
+
+.alinhamento {
+    display: flex;
+    justify-content: center;
+}
+
+.espaçamentoLabel {
+    padding-right: 6px;
+}

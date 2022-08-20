@@ -1,0 +1,18 @@
+.secaohome {
+    display: flex;
+}
+
+.metadetela {
+    flex: 1;
+    padding: 5px 10px;
+    font-family: 'Lucida Sans Unicode';
+    color: #a83400;
+    font-size: 20pt;
+    align-items: center;
+    display: flex;
+}
+
+.alinharadireita {
+    text-align: end;
+    justify-content: end;
+}
